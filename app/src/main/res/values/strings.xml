@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="title_home">Latest</string>
+    <string name="title_world">World</string>
+    <string name="title_science">Science</string>
+    <string name="title_details">Details</string>
+    <string name="title_favorite">Favorite</string>
+</resources>

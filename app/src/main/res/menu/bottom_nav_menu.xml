@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/iconfinder_news_115708"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_world"
+        android:icon="@drawable/iconfinder_world8_216560"
+        android:title="@string/title_world" />
+
+    <item
+        android:id="@+id/navigation_science"
+        android:icon="@drawable/iconfinder_115_111098"
+        android:title="@string/title_science" />
+
+    <item
+        android:id="@+id/navigation_favorite"
+        android:icon="@drawable/iconfinder_89_171448"
+        android:title="@string/title_favorite" />
+
+</menu>
